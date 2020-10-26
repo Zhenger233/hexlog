@@ -104,6 +104,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Zhenger233/hexolog
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+  repo: git@github.com:Zhenger233/Zhenger233.github.io.git
+  branch: master
