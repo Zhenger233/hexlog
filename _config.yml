@@ -106,3 +106,10 @@ deploy:
   type: git
   repo: git@github.com:Zhenger233/Zhenger233.github.io.git
   branch: master
+
+# Search Config
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 100
